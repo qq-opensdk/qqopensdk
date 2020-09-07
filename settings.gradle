@@ -1,2 +1,3 @@
+include ':qqopensdk'
 include ':app'
 rootProject.name = "OpenSdkSample"
